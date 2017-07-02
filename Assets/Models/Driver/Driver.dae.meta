@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 05591bcb6f9e4e4498c430f807ed7842
+timeCreated: 1487608420
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_elbow_left
+    100002: arm_elbow_right
+    100004: arm_finger_1a_left
+    100006: arm_finger_1a_right
+    100008: arm_finger_1b_left
+    100010: arm_finger_1b_right
+    100012: arm_finger_1c_left
+    100014: arm_finger_1c_right
+    100016: arm_finger_2a_left
+    100018: arm_finger_2a_right
+    100020: arm_finger_2b_left
+    100022: arm_finger_2b_right
+    100024: arm_finger_2c_left
+    100026: arm_finger_2c_right
+    100028: arm_shoulder_1_left
+    100030: arm_shoulder_1_right
+    100032: arm_shoulder_2_left
+    100034: arm_shoulder_2_right
+    100036: arm_wrist_left
+    100038: arm_wrist_right
+    100040: Armature
+    100042: //RootNode
+    100044: driverbody
+    100046: driverhelmet
+    100048: drivervisor
+    100050: head
+    100052: leg_ankle_left
+    100054: leg_ankle_right
+    100056: leg_knee_left
+    100058: leg_knee_right
+    100060: leg_thigh_left
+    100062: leg_thigh_right
+    100064: leg_toes_left
+    100066: leg_toes_right
+    100068: neck
+    100070: pelvis
+    100072: root_ground
+    100074: root_hips
+    100076: spine_lower
+    100078: spine_upper
+    400000: arm_elbow_left
+    400002: arm_elbow_right
+    400004: arm_finger_1a_left
+    400006: arm_finger_1a_right
+    400008: arm_finger_1b_left
+    400010: arm_finger_1b_right
+    400012: arm_finger_1c_left
+    400014: arm_finger_1c_right
+    400016: arm_finger_2a_left
+    400018: arm_finger_2a_right
+    400020: arm_finger_2b_left
+    400022: arm_finger_2b_right
+    400024: arm_finger_2c_left
+    400026: arm_finger_2c_right
+    400028: arm_shoulder_1_left
+    400030: arm_shoulder_1_right
+    400032: arm_shoulder_2_left
+    400034: arm_shoulder_2_right
+    400036: arm_wrist_left
+    400038: arm_wrist_right
+    400040: Armature
+    400042: //RootNode
+    400044: driverbody
+    400046: driverhelmet
+    400048: drivervisor
+    400050: head
+    400052: leg_ankle_left
+    400054: leg_ankle_right
+    400056: leg_knee_left
+    400058: leg_knee_right
+    400060: leg_thigh_left
+    400062: leg_thigh_right
+    400064: leg_toes_left
+    400066: leg_toes_right
+    400068: neck
+    400070: pelvis
+    400072: root_ground
+    400074: root_hips
+    400076: spine_lower
+    400078: spine_upper
+    4300000: drivervisor
+    4300002: driverhelmet
+    4300004: driverbody
+    9500000: //RootNode
+    13700000: driverbody
+    13700002: driverhelmet
+    13700004: drivervisor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
